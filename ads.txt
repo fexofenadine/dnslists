@@ -1,0 +1,3 @@
+# [googleapis.com]
+127.0.0.1 androidtvwatsonfe-pa.googleapis.com
+127.0.0.1 clientmetrics-pa.googleapis.com
