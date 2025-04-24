@@ -1,0 +1,5 @@
+# [android/google tv ads]
+
+# googleapis.com
+androidtvwatsonfe-pa.googleapis.com
+clientmetrics-pa.googleapis.com
