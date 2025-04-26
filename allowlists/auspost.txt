@@ -1,0 +1,7 @@
+# [ australia post site and package tracking ]
+
+# australia post proper, required for package tracking, complaints, app functionality
+auspost.com.au
+
+# shopmate, might be no longer in business
+shopmate.auspost.com.au

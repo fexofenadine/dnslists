@@ -1,3 +1,4 @@
-# [nintendo switch internet connectivity test]
+# [ nintendo switch internet connectivity test(s) ]
 
 ctest.cdn.nintendo.net
+conntest.nintendowifi.net

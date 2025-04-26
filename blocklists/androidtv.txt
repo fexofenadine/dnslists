@@ -1,4 +1,4 @@
-# [android/google tv ads]
+# [ android/google tv ads. probably doesn't work anymore. ]
 
 # googleapis.com
 androidtvwatsonfe-pa.googleapis.com

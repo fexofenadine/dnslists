@@ -1,4 +1,4 @@
-# [xbox live & game pass]
+# [ xbox live & game pass ]
 
 # xbox live
 clientconfig.passport.net
