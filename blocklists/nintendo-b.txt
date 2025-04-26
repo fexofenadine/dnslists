@@ -61,3 +61,9 @@ ngs-2785c5-live.s3.amazonaws.com
 # from itzxzac
 bcat-list-lp1.cdn.nintendo.net
 app-a03.lp1.npns.srv.nintendo.net
+
+#fuckit why not
+nintendo.net
+nintendo.com
+www.nintendo.net
+www.nintendo.com
