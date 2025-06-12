@@ -16,7 +16,9 @@ gql.twitch.tv
 # chat
 irc-ws.chat.twitch.tv
 
-# unsure
+# unsure, probably drop campaign related in here somewhere
+k.twitchcdn.net
+pubsub-edge.twitch.tv
 hermes.twitch.tv
 spade.twitch.tv
 static-cdn.jtvnw.net
