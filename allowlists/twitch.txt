@@ -1,0 +1,23 @@
+# [ twitch ]
+
+# core domain
+twitch.tv
+
+# core web services
+www.twitch.tv
+
+# clips? probably
+assets.twitch.tv
+clips.twitch.tv
+
+# gql api
+gql.twitch.tv
+
+# chat
+irc-ws.chat.twitch.tv
+
+# unsure
+hermes.twitch.tv
+spade.twitch.tv
+static-cdn.jtvnw.net
+usher.ttvnw.net
